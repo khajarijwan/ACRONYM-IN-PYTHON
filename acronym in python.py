@@ -15,7 +15,7 @@ def fxn(stng):
 
 
 # input string
-inpt1 = str(input('Enter the name:'))
+inpt1 = str(input('enter the name:'))
 
 # output acronym
 print(fxn(inpt1))
